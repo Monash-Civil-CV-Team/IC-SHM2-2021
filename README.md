@@ -1,0 +1,4 @@
+# IC-SHM2-2021
+Earthquakes accounted for around 1.87 million deaths in the past century with building collapses identified as the major fatal cause. In a quick response to earthquakes, condition assessment of damaged buildings is a critical task to provide timely rescue of lives, informed decision making and mitigation measures to secondary hazards. Manual inspection can be laborious, causing delay of subsequent actions, and sometime hazardous, resulting in worker casualties due to the secondary effects like aftershocks.  For example, a devastating tragedy of  44 fatalities including rescuers and journalists caused by the aftershock in Van, Turkey in 2011 was reported. These concerns are calling for automatic alternatives to conduct post-earthquake building assessment.
+# Network Architecture
+![image](https://user-images.githubusercontent.com/77284145/188786021-5c2a0d59-2f1b-40ee-9229-035b3fbb5784.png)
