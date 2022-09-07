@@ -11,7 +11,7 @@ The provided dataset consists of 3,805 annotated pictures with size of 1,080×1,
 Please run pip install -r requirements.txt 
 # Procedure
 —__1.Data Preparation__  
-Please download the data through this link [Original data](http://www.schm.org.cn/#/IPC-SHM,2020/dataDownload) and put the data at the root of the project.
+Please download the data through this link [Original data](https://sail.cive.uh.edu/ic-shm2021/) and put the data at the root of the project.
 the image process code is in folder "data processing" are used to precess the data. Please binary the mask images first, then cut and crop the images and masks.
 If you try to use your own data, please use following format  
  >--Data  
